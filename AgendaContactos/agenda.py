@@ -1,11 +1,5 @@
 # Projeto Agenda de Contactos
 
-Created on Fri Dec 12 08:06:17 2025
-
-@author: gasa
-"""
-
-# notas.py
 import os, csv
 
 FILE = "contactos.csv"
