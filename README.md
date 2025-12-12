@@ -1,1 +1,2 @@
-# Meu Projeto Python
+# Portfólio Python
+Este repositório contém pequenos projetos em Python para estudo.
