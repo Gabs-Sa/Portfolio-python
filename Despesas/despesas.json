@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1765804282091,
+    "categoria": "saude",
+    "valor": 32.5,
+    "data": "2025-12-15",
+    "nota": "Foi remédio"
+  },
+  {
+    "id": 1765804282093,
+    "categoria": "saude",
+    "valor": 21.0,
+    "data": "2025-12-15",
+    "nota": ""
+  },
+  {
+    "id": 1765804282094,
+    "categoria": "Alim",
+    "valor": 40.0,
+    "data": "2025-12-15",
+    "nota": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "O Exemplo",
+    "genero": "Drama",
+    "rating": 8.2,
+    "estado": "visto"
+  },
+  {
+    "titulo": "Série X",
+    "genero": "Sci-Fi",
+    "rating": null,
+    "estado": "por ver"
+  }
+]
