@@ -1,0 +1,1 @@
+print('Inventario iniciado')
